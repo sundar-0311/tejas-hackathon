@@ -1,0 +1,5 @@
+.env
+venv/
+disha.db
+__pycache__/
+dataset/
